@@ -1,0 +1,2 @@
+# JMSPaymentClickToPayTunisiaBundle
+ClicToPay, through its membership in Monétique-Tunisia, is developing its position in Tunisia but also in North Africa, Africa and the Middle East.  The ClicToPay platform accepts multiple currencies to allow you to cash your transactions worldwide and either through your contract or by that of connections with international acquirers and payment methods. This Bundle make easy the integration of this solution into your symfony projects
